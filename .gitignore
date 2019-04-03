@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# misc
+.DS_Store
+
+# for github file size lim
+*.npy
